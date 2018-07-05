@@ -5,6 +5,7 @@ Created on Tue Apr 03 11:33:02 2018
 @author: George
 """
 
+# re ti travame ke mis i horeftries
 
 print 'You\'d need to know \'bout escapes with \\ that do \n newlines and \t tabs.'
 
